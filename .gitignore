@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+dist-ssr/
+
+# env/secrets
+.env
+.env.*
+!.env.example
+
+# backend local state
+backend/data.sqlite
+backend/data.sqlite-*
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS/editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/

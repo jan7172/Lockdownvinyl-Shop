@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fender-strato-1978",
+    "title": "Fender Stratocaster",
+    "year": "1978",
+    "price": 2450,
+    "published": true,
+    "description": "Original Fender Stratocaster aus dem Jahr 1978 in Sunburst-Finish.\n\nDer Korpus ist aus Erle, das Griffbrett aus Palisander. Die originalen Pickups wurden professionell überprüft und sind in tadellosem Zustand.",
+    "createdAt": "2026-05-12T10:00:00Z",
+    "images": [
+      "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "id": "gibson-les-paul-standard",
+    "title": "Gibson Les Paul Standard",
+    "year": "2003",
+    "price": 1890,
+    "published": true,
+    "description": "Gibson Les Paul Standard in Heritage Cherry Sunburst.\n\nMahagoni-Korpus mit Ahorndecke. Originale Burstbucker Pro Pickups.",
+    "createdAt": "2026-05-08T14:30:00Z",
+    "images": [
+      "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "id": "fender-precision-bass",
+    "title": "Fender Precision Bass",
+    "year": "1985",
+    "price": 1650,
+    "published": true,
+    "description": "Fender Precision Bass aus US-Produktion, 1985. Olympic White (vergilbt) mit Tortoise-Pickguard.",
+    "createdAt": "2026-05-15T09:15:00Z",
+    "images": [
+      "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "id": "rhodes-mark-i-stage",
+    "title": "Rhodes Mark I Stage",
+    "year": "1975",
+    "price": 3200,
+    "published": false,
+    "description": "Original Rhodes Mark I Stage Piano, 73 Tasten. Komplett gewartet.",
+    "createdAt": "2026-04-28T16:45:00Z",
+    "images": [
+      "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "id": "akustikgitarre-martin-d28",
+    "title": "Martin D-28",
+    "year": "1998",
+    "price": 2100,
+    "published": true,
+    "description": "Martin D-28 Dreadnought, gebaut 1998 in Nazareth, Pennsylvania.",
+    "createdAt": "2026-05-02T11:20:00Z",
+    "images": [
+      "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=600&q=80"
+    ]
+  },
+  {
+    "id": "moog-prodigy",
+    "title": "Moog Prodigy",
+    "year": "1981",
+    "price": 1450,
+    "published": false,
+    "description": "Analog-Synthesizer Moog Prodigy aus den frühen 80ern.",
+    "createdAt": "2026-05-18T13:00:00Z",
+    "images": [
+      "https://images.unsplash.com/photo-1574169208507-84376144848b?auto=format&fit=crop&w=600&q=80"
+    ]
+  }
+]
